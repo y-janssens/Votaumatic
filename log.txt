@@ -1,0 +1,28 @@
+05/12/2021 17:35:22 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Error 
+05/12/2021 17:35:31 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Error 
+05/12/2021 17:35:39 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Error 
+05/12/2021 17:35:47 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Error 
+05/12/2021 17:35:55 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Error 
+05/12/2021 17:36:03 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Error 
+
+05/12/2021 19:41:16 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+05/12/2021 19:41:28 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+05/12/2021 19:41:59 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+05/12/2021 19:42:11 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+05/12/2021 19:42:24 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+05/12/2021 19:42:35 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+05/12/2021 21:47:51 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+05/12/2021 21:48:01 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+05/12/2021 21:48:32 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+05/12/2021 21:48:44 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+05/12/2021 21:48:54 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+05/12/2021 21:49:05 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+05/12/2021 23:54:21 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+05/12/2021 23:54:32 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+05/12/2021 23:55:04 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+05/12/2021 23:55:15 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+05/12/2021 23:55:26 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+05/12/2021 23:55:36 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
