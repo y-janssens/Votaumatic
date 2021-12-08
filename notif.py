@@ -23,8 +23,9 @@ last_topic = root_url + last_topic_list[1]
 options = webdriver.ChromeOptions()
 options.add_argument(
     "user-data-dir=C:/Users/scorp/AppData/Local/Google/Chrome/User Data")
-options.add_argument('--profile-directory=Profile 0')
+options.add_argument('--profile-directory=Default')
 options.add_argument('log-level=3')
+
 
 def countdown(time_sec):
     while time_sec:
@@ -34,6 +35,7 @@ def countdown(time_sec):
         print(timeformat, end='\r')
         sleep(1)
         time_sec -= 1
+
 
 def notification():
     now = datetime.now()
@@ -51,8 +53,15 @@ def notification():
         inputElement.send_keys(Keys.TAB, Keys.TAB, Keys.ENTER)
         sleep(5)
         print(f'{date_time} : Vote Successful')
+        unwatch = driver.find_elements(By.CSS_SELECTOR, 'span.gensmall')
+        links = list(unwatch)
+        button = links[-7]
+        button.click()
+        sleep(5)
+        print(f'{date_time} : Topic unwatched')
     except:
         print('error')
+
 
 while True:
     notification()
