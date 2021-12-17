@@ -12,7 +12,7 @@ import sys
         os.mkdir(f'./dbtest/{i}') """
 
 
-for i in range(1, 101):
+for i in range(25012, 64999):
     try:
         orig = rf'./dbtest/img{i}.png'
         img = cv.imread(f'./dbtest/img{i}.png')
@@ -22,14 +22,16 @@ for i in range(1, 101):
                                    cv.THRESH_BINARY, 99, 10)
 
         reader = easyocr.Reader(['en'], verbose=False)
-        result = reader.readtext(th2, allowlist='0123456789')
+        result = reader.readtext(th2, allowlist='123456789')
         output = list(result[0][-2])
         target = rf'./dbtest/{output[0]}{output[1]}'
         if len(output) == 2:
             print(f'result: {output[0]}, {output[1]}')
-            print('Success')
+            print(f'{orig}: Success')
             shutil.move(orig, target)
         else:
-            print('Missread')
+            print(f'{orig}:Missread')
     except:
         print('Error')
+    print(i)
+

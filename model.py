@@ -1,9 +1,9 @@
 import requests
 import shutil
 
-i = 18173
+i = 1
 
-while i <= 99999:
+while i <= 64999:
     i += 1
     print(i)
     root = 'https://www.root-top.com/include/captcha_vote/captcha.php?1638718615.png'
@@ -13,5 +13,5 @@ while i <= 99999:
             r.raw.decode_content = True
             shutil.copyfileobj(r.raw, f)
 
-    if i == 99999:
+    if i == 64999:
         print('Over')
