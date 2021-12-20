@@ -1,20 +1,19 @@
-from time import sleep
 from datetime import datetime
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
-from selenium.webdriver.firefox.options import Options
-from bs4 import BeautifulSoup
+from time import sleep
 import requests
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.firefox.service import Service
+#from detection import read, check
 
-firefox_options = Options()
-firefox_options.headless = True
-fp = webdriver.FirefoxProfile(
+options = Options()
+options.headless = True
+profile = webdriver.FirefoxProfile(
     "C:/Users/scorp/AppData/Roaming/Mozilla/Firefox/Profiles/7khe95ju.default-release")
-
-chrome_options = webdriver.ChromeOptions()
-chrome_options.add_argument('headless')
-chrome_options.add_argument('log-level=3') 
+service = Service(r'./drivers/geckodriver.exe')
 
 root = 'http://www.root-top.com/topsite/'
 topsites = [f'{root}virtu4lgames/in.php?ID=4969', f'{root}gilgamesh/in.php?ID=8372', f'{root}justmarried/in.php?ID=763',
@@ -36,6 +35,7 @@ last_topic = root_url + last_topic_list[1]
 with open('log.txt', 'w', encoding='utf-8') as f:
     f.write('')
 
+
 def countdown(time_sec):
     while time_sec:
         mins, secs = divmod(time_sec, 60)
@@ -45,17 +45,19 @@ def countdown(time_sec):
         sleep(1)
         time_sec -= 1
 
+
 def vote():
     for i in range(len(topsites)):
         now = datetime.now()
         date_time = now.strftime("%d/%m/%Y %H:%M:%S")
         try:
-            driver = webdriver.Chrome(options=chrome_options)
+            driver = webdriver.Firefox(
+                firefox_profile=profile, options=options, service=service)
             driver.get(topsites[i])
             sleep(2)
             driver.refresh()
             sleep(2)
-            button = driver.find_element(By.ID,'BA')
+            button = driver.find_element(By.ID, 'BA')
             button.click()
             sleep(2)
             driver.close()
@@ -69,11 +71,13 @@ def vote():
     with open('log.txt', 'a', encoding='utf-8') as f:
         f.write('\n')
 
+
 def notification():
     now = datetime.now()
     date_time = now.strftime("%d/%m/%Y %H:%M:%S")
     try:
-        driver = webdriver.Firefox(firefox_profile=fp, options=firefox_options)
+        driver = webdriver.Firefox(
+            firefox_profile=profile, options=options, service=service)
         sleep(2)
         driver.get(last_topic)
         sleep(2)
@@ -98,7 +102,8 @@ def notification():
         driver.close()
 
 
-while True:
-    vote()
-    notification()
-    countdown(7500)
+if __name__ == '__main__':
+    while True:
+        vote()
+        notification()
+        countdown(7500)
