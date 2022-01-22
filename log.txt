@@ -1,14 +1,154 @@
-02/01/2022 21:12:29 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
-02/01/2022 21:12:55 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
-02/01/2022 21:13:35 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
-02/01/2022 21:13:49 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
-02/01/2022 21:14:02 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
-02/01/2022 21:14:15 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+20/01/2022 20:51:38 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+20/01/2022 20:51:53 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+20/01/2022 20:52:26 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+20/01/2022 20:52:40 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+20/01/2022 20:52:53 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+20/01/2022 20:53:06 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
 
-02/01/2022 23:20:04 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
-02/01/2022 23:20:19 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
-02/01/2022 23:20:53 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
-02/01/2022 23:21:07 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
-02/01/2022 23:21:20 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
-02/01/2022 23:21:33 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+20/01/2022 22:58:51 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+20/01/2022 22:59:05 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+20/01/2022 22:59:38 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+20/01/2022 22:59:52 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+20/01/2022 23:00:04 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+20/01/2022 23:00:18 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+21/01/2022 01:06:03 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+21/01/2022 01:06:17 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+21/01/2022 01:07:12 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+21/01/2022 01:07:25 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+21/01/2022 01:07:38 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+21/01/2022 01:07:52 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+21/01/2022 03:13:35 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+21/01/2022 03:13:49 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+21/01/2022 03:14:22 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+21/01/2022 03:14:35 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+21/01/2022 03:14:48 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+21/01/2022 03:15:01 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+21/01/2022 05:20:44 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+21/01/2022 05:20:58 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+21/01/2022 05:21:32 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+21/01/2022 05:21:45 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+21/01/2022 05:21:58 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+21/01/2022 05:22:11 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+21/01/2022 07:27:55 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+21/01/2022 07:28:09 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+21/01/2022 07:29:06 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+21/01/2022 07:29:23 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+21/01/2022 07:29:36 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+21/01/2022 07:29:48 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+21/01/2022 09:35:36 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+21/01/2022 09:35:50 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+21/01/2022 09:36:23 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+21/01/2022 09:36:36 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+21/01/2022 09:36:49 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+21/01/2022 09:37:02 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+21/01/2022 11:42:45 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+21/01/2022 11:42:59 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+21/01/2022 11:43:32 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+21/01/2022 11:43:48 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+21/01/2022 11:44:00 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+21/01/2022 11:44:13 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+21/01/2022 13:49:57 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+21/01/2022 13:50:13 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+21/01/2022 13:51:07 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+21/01/2022 13:51:21 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+21/01/2022 13:51:33 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+21/01/2022 13:51:46 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+21/01/2022 15:57:32 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+21/01/2022 15:57:46 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+21/01/2022 15:58:19 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+21/01/2022 15:58:33 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+21/01/2022 15:58:46 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+21/01/2022 15:59:00 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+21/01/2022 18:04:44 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+21/01/2022 18:04:58 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+21/01/2022 18:05:34 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+21/01/2022 18:05:47 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+21/01/2022 18:06:00 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+21/01/2022 18:06:14 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+21/01/2022 20:11:58 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+21/01/2022 20:12:15 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+21/01/2022 20:12:48 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+21/01/2022 20:13:02 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+21/01/2022 20:13:14 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+21/01/2022 20:13:27 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+21/01/2022 22:19:13 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+21/01/2022 22:19:29 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+21/01/2022 22:20:24 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+21/01/2022 22:20:37 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+21/01/2022 22:20:50 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+21/01/2022 22:21:03 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+22/01/2022 00:26:49 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+22/01/2022 00:27:05 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+22/01/2022 00:28:00 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+22/01/2022 00:28:13 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+22/01/2022 00:28:26 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+22/01/2022 00:28:39 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+22/01/2022 02:34:23 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+22/01/2022 02:34:37 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+22/01/2022 02:35:31 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+22/01/2022 02:35:45 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+22/01/2022 02:35:57 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+22/01/2022 02:36:10 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+22/01/2022 04:41:54 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+22/01/2022 04:42:08 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+22/01/2022 04:43:03 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+22/01/2022 04:43:16 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+22/01/2022 04:43:29 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+22/01/2022 04:43:42 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+22/01/2022 06:49:27 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+22/01/2022 06:49:40 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+22/01/2022 06:50:36 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+22/01/2022 06:50:49 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+22/01/2022 06:51:02 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+22/01/2022 06:51:15 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+22/01/2022 08:56:59 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+22/01/2022 08:57:13 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+22/01/2022 08:57:47 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+22/01/2022 08:58:00 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+22/01/2022 08:58:13 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+22/01/2022 08:58:25 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+22/01/2022 11:04:11 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+22/01/2022 11:04:24 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+22/01/2022 11:05:19 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+22/01/2022 11:05:33 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+22/01/2022 11:05:45 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+22/01/2022 11:05:58 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+22/01/2022 13:11:42 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+22/01/2022 13:11:56 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+22/01/2022 13:12:29 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+22/01/2022 13:12:43 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+22/01/2022 13:12:55 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+22/01/2022 13:13:09 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+22/01/2022 15:18:54 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+22/01/2022 15:19:08 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+22/01/2022 15:20:03 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+22/01/2022 15:20:17 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+22/01/2022 15:20:30 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+22/01/2022 15:20:43 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
+
+22/01/2022 17:26:29 : http://www.root-top.com/topsite/virtu4lgames/in.php?ID=4969 : Ok 
+22/01/2022 17:26:42 : http://www.root-top.com/topsite/gilgamesh/in.php?ID=8372 : Ok 
+22/01/2022 17:27:40 : http://www.root-top.com/topsite/justmarried/in.php?ID=763 : Ok 
+22/01/2022 17:27:53 : http://www.root-top.com/topsite/melu/in.php?ID=4220 : Ok 
+22/01/2022 17:28:09 : http://www.root-top.com/topsite/pubrpgdesign/in.php?ID=2731 : Ok 
+22/01/2022 17:28:23 : http://www.root-top.com/topsite/niviel/in.php?ID=1194 : Ok 
 

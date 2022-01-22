@@ -7,7 +7,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.firefox.service import Service
-#from detection import read, check
 
 options = Options()
 options.headless = True
@@ -65,6 +64,7 @@ def vote():
                 f.write(f'{date_time} : {topsites[i]} : Ok \n')
             print(f'{date_time} : {topsites[i]} : Ok')
         except:
+            driver.close()
             with open('log.txt', 'a', encoding='utf-8') as f:
                 f.write(f'{date_time} : {topsites[i]} : Error \n')
             print(f'{date_time} : {topsites[i]} : Error')
