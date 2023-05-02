@@ -11,7 +11,7 @@ from selenium.webdriver.firefox.service import Service
 options = Options()
 options.headless = True
 profile = webdriver.FirefoxProfile(
-    "C:/Users/scorp/AppData/Roaming/Mozilla/Firefox/Profiles/7khe95ju.default-release")
+    r'C:\Users\scorp\AppData\Roaming\Mozilla\Firefox\Profiles\z8959r85.default-release')
 service = Service(r'./drivers/geckodriver.exe')
 
 root = 'http://www.root-top.com/topsite/'
@@ -64,12 +64,11 @@ def vote():
                 f.write(f'{date_time} : {topsites[i]} : Ok \n')
             print(f'{date_time} : {topsites[i]} : Ok')
         except:
-            driver.close()
+            if driver:
+                driver.close()
             with open('log.txt', 'a', encoding='utf-8') as f:
                 f.write(f'{date_time} : {topsites[i]} : Error \n')
             print(f'{date_time} : {topsites[i]} : Error')
-    with open('log.txt', 'a', encoding='utf-8') as f:
-        f.write('\n')
 
 
 def notification():
@@ -96,10 +95,11 @@ def notification():
         button.click()
         sleep(5)
         print(f'{date_time} : Topic unwatched')
-    except:
-        print('error')
-    else:
         driver.close()
+    except:
+        if driver:
+            driver.close()
+        print('error')
 
 
 if __name__ == '__main__':
