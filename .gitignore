@@ -2,3 +2,6 @@ database
 geckodriver.log
 log.txt
 img.png
+build
+dist
+*.spec
